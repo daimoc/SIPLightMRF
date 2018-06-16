@@ -1,0 +1,10 @@
+{
+  "name": "node-sip-gw",
+  "version": "1.0.0",
+  "dependencies":
+  {
+    "express": "~4.0.0",
+    "sdp-transform": "~2.0.0",
+    "uuid":"*"
+  }
+}

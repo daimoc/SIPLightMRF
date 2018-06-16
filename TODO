@@ -1,0 +1,5 @@
+- SIP invite : generateSDP // send invite // store callID info // check child process
+
+- Add CRD
+- restart ffmpeg on error + concat files
+- REST on file_id
